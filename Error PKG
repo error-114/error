@@ -1,0 +1,9 @@
+Join Telegram Channel
+https://t.me/anas_hacker0
+
+$ pkg install python
+$ pkg install python2
+$ pkg install git
+$ git clone https://github.com/error-114/error
+$ cd error
+$ python2 Error.py
